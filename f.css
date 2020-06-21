@@ -3,7 +3,7 @@ body{
     display: block;
    -webkit-align-content: center; 
     align-content: center; 
-    background-image: url();
+    background-color: rgba(32, 178, 170,0.4);
 }
 .center{
     width:100%;
