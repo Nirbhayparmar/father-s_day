@@ -1,0 +1,43 @@
+
+body{
+    display: block;
+   -webkit-align-content: center; 
+    align-content: center; 
+    background-color: rgba(32, 178, 170,0.7);
+}
+
+.center{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cl{
+    text-align: center;
+    text-decoration-color:#ffffff;
+    background-color: black;
+}
+.cl:hover{
+    text-decoration-color: #ffffff;
+    background-color: darkorange;
+}
+.b{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+    height: 490px;
+}
+.size{
+    justify-content: center;
+    width: 800px;
+    height:500px;
+    border: solid 4px brown;
+}
+p{
+    font-family: 'Sriracha', cursive;
+    font-size: 4rem;
+}
