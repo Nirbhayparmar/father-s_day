@@ -1,0 +1,22 @@
+
+body{
+    display: block;
+   -webkit-align-content: center; 
+    align-content: center; 
+    background-color: rgba(32, 178, 170,0.7);
+}
+.center{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.size{
+    justify-content: center;
+    width: 800px;
+    height:450px;
+}
+p{
+    font-family: 'Sriracha', cursive;
+    font-size: 4rem;
+}
