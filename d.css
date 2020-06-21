@@ -1,0 +1,11 @@
+.jumbotron{
+    background-image: url(d.jpg);
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+body{
+    background-color: rgba(32, 178, 170,0.4);
+}
