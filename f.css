@@ -11,10 +11,14 @@ body{
     justify-content: center;
     align-content: center;
 }
+img{
+    height: 490px;
+}
 .size{
     justify-content: center;
     width: 800px;
-    height:450px;
+    height:500px;
+    border: solid 4px brown;
 }
 p{
     font-family: 'Sriracha', cursive;
